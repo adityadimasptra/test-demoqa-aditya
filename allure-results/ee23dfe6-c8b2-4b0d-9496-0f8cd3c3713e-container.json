@@ -1,0 +1,1 @@
+{"uuid":"ee23dfe6-c8b2-4b0d-9496-0f8cd3c3713e","name":"com.example.demoqa.MainPageTest","children":["dddcb01f-22d5-4aa2-9016-c23ac5312e87"],"befores":[{"name":"setUpAll","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1668331897427,"stop":1668331900142}],"afters":[],"start":1668331897407,"stop":1668331906594}
